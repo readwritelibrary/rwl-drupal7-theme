@@ -1,0 +1,27 @@
+# Mac OS resource forks
+.DS_Store
+._*
+.Trashes
+.Spotlight*
+
+# Windows Explorer files
+Thumbs.db
+desktop.ini
+
+# KDE (Linux)
+.directory
+
+# Temp folders
+working/*
+
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
+
+# Automatic backup files
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
